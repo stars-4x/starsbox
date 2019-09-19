@@ -1,7 +1,7 @@
 # starsbox
 Stars! in Windows 3.1 in DOSBox
 
-**Note:** If you want more seamless integration with Windows, try [starswine](https://github.com/stars-4x/starsboxi).
+**Note:** If you want more seamless integration with Windows, try [starswine](https://github.com/stars-4x/starswine).
 
 Notes and issues:
 * Good practice is to save files to the D: drive.  Files are found
